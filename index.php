@@ -7,8 +7,9 @@ require('controller/controller.php');
 
 if (isset($_GET['action'])) {
     // modification du fichier ; ajout d'un commentaire
-    // echo "action demandée = " . $_GET['action'];
+    echo "action demandée = " . $_GET['action'];
     if ($_GET['action'] == 'regex') {
+            // TP regex
     	 	TestRegex();
 	}
 }
