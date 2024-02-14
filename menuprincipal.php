@@ -7,6 +7,6 @@
 
   <body>
   <p><a href="index.php">Retour à l'index </a></p>
-  <p><a href=index.php?action=regex>TPExpression</a></p>
+  <p><a href=index.php?action=regex>TPExpression régulières</a></p>
 </body>
 </html>
